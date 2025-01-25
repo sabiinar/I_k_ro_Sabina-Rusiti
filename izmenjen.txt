@@ -1,0 +1,1 @@
+echo'Sabina_Rusiti-I kolokvijum iz RO';
